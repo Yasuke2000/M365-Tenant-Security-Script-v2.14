@@ -25,7 +25,7 @@
 
 .NOTES
     Version: 2.14
-    Author: Yasuke2000 (refined from AI collaboration)
+    Author: Yasuke2000 
     Date: 2025-05-19
 
     Prerequisites:
